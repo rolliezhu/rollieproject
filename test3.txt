@@ -3,3 +3,4 @@ This is the first line.
 This is the line after staging. Word
 This is the forth line
 Last line is added under master branch.
+Update test3 under testing branch in remote.
